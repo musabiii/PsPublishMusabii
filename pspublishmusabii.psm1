@@ -6,7 +6,7 @@ function Musabii-Test {
 
         [pscustomobject]@{
             ParameterName = $a
-            NumberOfCmdlets = $b
+            Column2 = $b
         }
 }
 
