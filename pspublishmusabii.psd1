@@ -12,7 +12,7 @@
     RootModule = 'pspublishmusabii.psm1'
 
     # Version number of this module.
-    ModuleVersion = '0.0.2'
+    ModuleVersion = '0.0.3'
 
     # ID used to uniquely identify this module
     GUID = '00c18d47-0dc9-480e-88b3-07b4e930dff4'
